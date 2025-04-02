@@ -7,13 +7,10 @@ develop a model of machine learning to predict claim probability based on policy
 vehicle attributes, improving risk assessment and decision-making. 
 
 Tools and Technology: 
-- Programming & Data Analysis: Python (Pandas, NumPy, Scikit-learn, XGBoost, Random 
-Forest) 
+- Programming & Data Analysis: Python (Pandas, NumPy, Scikit-learn, Random 
+Forest, Decision Tree, Logistic Regression) 
 - Data Visualization: Matplotlib, Seaborn 
 - Data Storage & Processing: SQL, CSV files 
-- Data Gathering: The dataset for this project is obtained from Kaggle, containing detailed 
-information about policyholders, vehicle specifications, and claim history. It includes structured 
-data with categorical and numerical attributes essential for model training. 
 
 Dataset Specifications: 
 - Total Records: 97,655 
